@@ -1,6 +1,6 @@
-##CMPG 323 Project 4 - User Acceptance Testing Automation
+## CMPG 323 Project 4 - User Acceptance Testing Automation
 
-##Overview
+## Overview
 
 This project automates the User Acceptance Testing (UAT) process for the NWU Tech Trends Telemetry Portal using Robotic Process Automation (RPA) with UiPath. The purpose of the automation is to simulate the manual process of testing whether records can be correctly added to the web application. The bot reads test data from an Excel file, inputs the data into the web form, verifies if the record was successfully created, and updates the test results in the Excel file.  
 
@@ -14,8 +14,8 @@ Key Features:
 2. Prerequisites  
 4. Installation  
 5. How to Run the Bot  
-    - Step 1: Prepare Test Data  
-    - Step 2: Run the UiPath Bot  
+    - Step 1: Prepare Test Data    
+    - Step 2: Run the UiPath Bot   
     - Step 3: Verify Results  
 5. Project Workflow  
 6. Input Data  
@@ -23,14 +23,14 @@ Key Features:
 8. Verification and Logging  
 9. References  
 
-##Project Setup  
+## Project Setup  
 Prerequisites  
 Before running the project, ensure the following tools are installed and set up:  
 =>UiPath Studio: Download and install the UiPath Community Edition from UiPath.  
 =>Excel Application: The bot reads and writes test data from an Excel file, so ensure Excel is installed.  
 =>NWU Tech Trends Telemetry Portal Access: Ensure access to the web application at this URL: https://techtrendstelemetryportal.azurewebsites.net/.  
 
-##Installation
+## Installation
 1. Clone the GitHub Repository  
     - This will download the UiPath project files to your local machine.    
 2. Open the UiPath Project:  
@@ -38,7 +38,7 @@ Before running the project, ensure the following tools are installed and set up:
 3. Publish to Orchestrator:  
    - If using UiPath Orchestrator for deployment, go to the Project tab in UiPath Studio and click Publish.  
 
-##How to Run the Bot  
+## How to Run the Bot  
 Step 1: Prepare Test Data
     - Ensure your test data is in an Excel file named NWU Tech Trends Data.xlsx. The file should include columns like ClientName, DateOnboarded, and ProjectName.
 Step 2: Run the UiPath Bot  
@@ -56,7 +56,7 @@ Step 3: Verify Results
     - TRUE: Record was successfully added to the web application.  
     - FALSE: Record creation failed or an error occurred.  
 
-##Project Workflow  
+## Project Workflow  
 -Input Data  
     The bot reads input from an Excel file, NWU Tech Trends Data.xlsx.  
     Each row represents one test case, and the bot uses this data to populate the fields in the web form.  
@@ -70,4 +70,4 @@ Step 3: Verify Results
     - Logging Results: The bot logs the test results (Pass/Fail) into the “Test Passed” column of the Excel sheet.  
     - If the record is created, the value TRUE is written to the Excel file. If not, FALSE is recorded.  
 
-#REFERENCES
+## REFERENCES
