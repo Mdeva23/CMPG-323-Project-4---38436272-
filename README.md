@@ -72,38 +72,72 @@ Step 3: Verify Results
 
 ## REFERENCES  
 Adit Kansara. 2019. Excel Automation with RPA - Excel Application RPA | UiPath. UiPath Blog. https://www.uipath.com/community/rpa-community-blog/excel-automation-application-rpa. Date of access: 06 Sep. 2024.  
+
 Automate with Rakesh. 2020. How to Use DataRow Argument in Add Data Row | Add Data Row Activity | Add Data Row UiPath Example. How to Use DataRow Argument in Add Data Row | Add Data Row Activity | Add Data Row UiPath Example (youtube.com). Date of Access: 05 Sep. 2024.  
+
 Automate with Rakesh. 2022. How to Clone a Git Repository on UiPath Studio. How to Clone a Git Repository on UiPath Studio (youtube.com). Date of Access: 05 Sep. 2024.  
+
 Boboc, M. s.a. Excel Automation Tutorial - DataTables Automation | UiPath. https://www.uipath.com/learning/video-tutorials/excel-datatables-automation. Date of access: 05 Sep. 2024.  
+
 Changrui Cheng. 2021. How to retrieve the url of a hyperlink on a webpage? - Help. UiPath Community Forum. https://forum.uipath.com/t/how-to-retrieve-the-url-of-a-hyperlink-on-a-webpage/153379/3. Date of access: 05 Sep. 2024.  
+
 Chris Dease. 2021. Looping through links on a website - Help / Studio. UiPath Community Forum. https://forum.uipath.com/t/looping-through-links-on-a-website/316999/3. Date of access: 06 Sep. 2024.  
 CMPG323-IT Developments. 2023. 03 October Project 4 Explained. 03 October Project 4 Explained (youtube.com). Date of Access: 01 Sep. 2024.  
-CMPG323-IT Developments. 2023. 14 September weekly virtual class Automation Introduction. 14 September weekly virtual class Automation introduction (youtube.com). Date of Access: 01 Sep. 2024.  
+
+CMPG323-IT Developments. 2023. 14 September weekly virtual class Automation Introduction. 14 September weekly virtual class Automation introduction (youtube.com). Date of Access: 01 Sep. 2024. 
+
 David Martinez. 2020. How to correctly loop through an HTML UL element with For Each - Help / Studio. UiPath Community Forum. https://forum.uipath.com/t/how-to-correctly-loop-through-an-html-ul-element-with-for-each/228378. Date of access: 07 Sep. 2024.  
+
 Excel Automation with Studio. 2021. https://www.youtube.com/watch?v=7SrdrREJtcc. Date of access: 04 Sep. 2024.  
+
 Filipe Ferreira. 2017. For each UiElement - Help. UiPath Community Forum. https://forum.uipath.com/t/for-each-uielement/1515/3. Date of access: 06 Sep. 2024.  
+
 GridoWit. 2021. Login or Sign in using UiPath Web recording. Login or Sign in using UiPath Web recording (youtube.com). Date of Access: 05 Sep. 2024.  
+
 Guillermo Cruz. 2019. Add Data Row, there is no row at position 0 - Help. UiPath Community Forum. https://forum.uipath.com/t/add-data-row-there-is-no-row-at-position-0/151163. Date of access: 05 Sep. 2024.   
-JaxXult. 2021. Click on item in the drop-down menu - Help / Activities. UiPath Community Forum. https://forum.uipath.com/t/click-on-item-in-the-drop-down-menu/336908. Date of access: 06 Sep. 2024.  
+
+JaxXult. 2021. Click on item in the drop-down menu - Help / Activities. UiPath Community Forum. https://forum.uipath.com/t/click-on-item-in-the-drop-down-menu/336908. Date of access: 06 Sep. 2024.
+
 Jensen, A. 2020. How to get Dates and Times from Excel in the right format with UiPath - Full Tutorial. How to get Dates and Times from Excel in the right format with UiPath - Full Tutorial (youtube.com). Date of Access: 05 Sep. 2024.  
+
 Marko Kostic. 2019. How to get all selectors from one web page - Random and other categories. UiPath Community Forum. https://forum.uipath.com/t/how-to-get-all-selectors-from-one-web-page/126074. Date of access: 07 Sep. 2024.  
+
 Muller, J. 2022a. Automation Solutions Using Design Patterns | Community Blog. UiPath Blog. https://www.uipath.com/community/rpa-community-blog/automation-solutions-using-design-patterns. Date of access: 04 Sep. 2024.    
+
 Muller, J. 2022b. Test Driven Development (TDD) - An Approach to Automation | Community Blog. UiPath Blog. https://www.uipath.com/community/rpa-community-blog/understanding-test-driven-development-an-approach-to-automation. Date of access: 07 Sep. 2024.  
+
 Muller, J. 2024. 04A Introduction to Automation, 16 July 2024. https://efundi.nwu.ac.za/access/content/group/4493dc23-83c1-4f78-aaa6-89a19cd28d5f/Slides/04B%20Introduction%20to%20Automation.pptx. Date of Access: 02 Sep. 2024.  
+
 Muller, J. 2024. 04A Introduction to Testing, 16 July 2024. https://efundi.nwu.ac.za/access/content/group/4493dc23-83c1-4f78-aaa6-89a19cd28d5f/Slides/04A%20Introduction%20to%20Testing.pptx. Date of Access: 02 Sep. 2024.  
+
 Muller, J. 2024. CMPG 323 2024 - Project 4 - Project Brief, 2 Sep 2024. https://efundi.nwu.ac.za/access/content/group/4493dc23-83c1-4f78-aaa6-89a19cd28d5f/Projects/Project%204/CMPG%20323%202024%20-%20Project%204%20-%20Project%20Brief-1.docx. Date of Access: 04 Sep. 2024.  
+
 Muller, J. 2024. NWU Tech Trends Data, 29 Aug 2024. https://efundi.nwu.ac.za/access/content/group/4493dc23-83c1-4f78-aaa6-89a19cd28d5f/Projects/Project%204/NWU%20Tech%20Trends%20Data.xlsx. Date of Access: 04 Sep. 2024.  
+
 Nathan Smith. 2021. How to Convert excel to DataTable in UIPath? - Help / Studio. UiPath Community Forum. https://forum.uipath.com/t/how-to-convert-excel-to-datatable-in-uipath/321763. Date of access: 03 Sep. 2024.  
+
 OpenAI. 2024. ChatGPT (Version GPT-4) [Large language model]. https://chat.openai.com.  
+
 RPA. 2023. UiPath RPA - Read Excel data and enter the Data into Web Form || google form automation. UiPath RPA - Read Excel data and enter the Data into Web Form || google form automation (youtube.com). Date of Access: 05 Sep. 2024.  
-Rohit Kashyap. 2021. UiPath Best Practices Guidelines | RPA Implementation. SOAIS. https://www.soais.com/rpa-uipath-best-practices-guidelines/. Date of access: 06 Sep. 2024.  
+
+Rohit Kashyap. 2021. UiPath Best Practices Guidelines | RPA Implementation. SOAIS. https://www.soais.com/rpa-uipath-best-practices-guidelines/. Date of access: 06 Sep. 2024. 
+
 Shaikh, I. 2019. Reading An Excel File In UiPath. C# corner. https://www.c-sharpcorner.com/article/reading-an-excel-file-in-uipath/. Date of access: 06 Sep. 2024.  
+
 UiPath. 2021a. Get Row Item. UiPath Activities. https://docs.uipath.com/activities/docs/get-row-item. Date of access: 06 Sep. 2024.  
+
 UiPath. 2021b. Manage DataTables. UiPath Activities. https://docs.uipath.com/activities/docs/manage-data-tables. Date of access: 06 Sep. 2024.  
+
 UiPath. 2021c. Read from Excel Files. UiPath Activities. https://docs.uipath.com/activities/docs/read-from-excel-files. Date of access: 04 Sep. 2024.  
+
 UiPath. 2021d. UI Automation. UiPath Studio. https://docs.uipath.com/studio/docs/ui-automation. Date of access: 04 Sep. 2024.  
+
 UiPath. 2024. UI Automation. Studio - UI Automation (uipath.com). Date of Access: 02 Sep. 2024.  
-UiPath. s.a. Deployment and configuration considerations. UiPath Orchestrator. https://docs.uipath.com/orchestrator/docs/deployment-and-configuration-considerations. Date of access: 04 Sep. 2024.  
+
+UiPath. s.a. Deployment and configuration considerations. UiPath Orchestrator. https://docs.uipath.com/orchestrator/docs/deployment-and-configuration-considerations. Date of access: 04 Sep. 2024. 
+
 UiPath. s.a. Organization modeling in Orchestrator. UiPath Orchestrator. https://docs.uipath.com/orchestrator/docs/organization-modeling-in-orchestrator. Date of access: 04 Sep. 2024.  
+
 Vinnyt1984. 2021. Looping through similar elements from a desktop application screen by clicking each of those elements. List/Count of elements vary each time the screen gets displayed - Help / Studio. UiPath Community Forum. https://forum.uipath.com/t/looping-through-similar-elements-from-a-desktop-application-screen-by-clicking-each-of-those-elements-list-count-of-elements-vary-each-time-the-screen-gets-displayed/352922. Date of access: 04 Sep. 2024.  
+
 What is a UiPath Software Robot? 2021. https://www.youtube.com/watch?v=3R67RGjZoOM. Date of access: 05 Sep. 2024.  
