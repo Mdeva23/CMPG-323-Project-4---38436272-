@@ -40,7 +40,7 @@ Before running the project, ensure the following tools are installed and set up:
 
 ## How to Run the Bot  
 Step 1: Prepare Test Data
-    - Ensure your test data is in an Excel file named NWU Tech Trends Data.xlsx. The file should include columns like ClientName, DateOnboarded, and ProjectName.
+    - Ensure your test data is in an Excel file named NWU Tech Trends Data.xlsx. The file should include columns like ClientName, DateOnboarded, and ProjectName.  
 Step 2: Run the UiPath Bot  
     -Open UiPath Studio and run the automation process.  
       - The bot will:  
